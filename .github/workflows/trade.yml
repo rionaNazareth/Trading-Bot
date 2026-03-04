@@ -1,0 +1,45 @@
+name: Trading Bot
+
+on:
+  schedule:
+    # Every 30 minutes, Mon-Fri, during US market hours (UTC)
+    # US market: 9:30 AM - 4:00 PM ET = ~14:30 - 21:00 UTC
+    - cron: '*/30 14-21 * * 1-5'
+  workflow_dispatch:  # Manual trigger for testing
+
+permissions:
+  contents: write  # Required to commit state.json and data/
+
+jobs:
+  trade:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run trading bot
+        env:
+          TRADING212_API_KEY: ${{ secrets.TRADING212_API_KEY }}
+          TRADING212_API_SECRET: ${{ secrets.TRADING212_API_SECRET }}
+          TRADING212_ENVIRONMENT: demo
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: python -m bot.main
+
+      - name: Commit updated state and data
+        run: |
+          git config user.name "trading-bot"
+          git config user.email "bot@noreply.github.com"
+          git add state.json data/
+          git diff --staged --quiet || git commit -m "bot: update state $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+          git push
+
