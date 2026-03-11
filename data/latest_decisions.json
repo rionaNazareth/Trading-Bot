@@ -1,5 +1,5 @@
 {
-  "run_time": "2026-03-11T20:35:18.965429+00:00",
+  "run_time": "2026-03-11T21:34:24.576332+00:00",
   "decisions": [
     {
       "ticker": "AAPL_US_EQ",
@@ -13,10 +13,10 @@
         "symbol": "AAPL",
         "current_price": 260.80999755859375,
         "volume": 3235002,
-        "rsi_14": 54.29,
-        "macd": 0.2425,
-        "macd_signal": 0.3935,
-        "macd_histogram": -0.151,
+        "rsi_14": 54.27,
+        "macd": 0.2422,
+        "macd_signal": 0.393,
+        "macd_histogram": -0.1508,
         "bb_upper": 262.11,
         "bb_middle": 260.83,
         "bb_lower": 259.55,
@@ -25,7 +25,7 @@
         "ema_9": 260.5,
         "ema_21": 260.4,
         "ema_trend": "bullish",
-        "atr_14": 1.1307,
+        "atr_14": 1.1312,
         "obv_trend": "rising",
         "price_change_pct": 0.26
       }
@@ -43,8 +43,8 @@
         "current_price": 287.4200134277344,
         "volume": 1025490,
         "rsi_14": 49.02,
-        "macd": -0.5453,
-        "macd_signal": -0.4733,
+        "macd": -0.5455,
+        "macd_signal": -0.4735,
         "macd_histogram": -0.072,
         "bb_upper": 292.09,
         "bb_middle": 288.04,
@@ -73,7 +73,7 @@
         "volume": 2342146,
         "rsi_14": 59.24,
         "macd": 0.3581,
-        "macd_signal": 0.141,
+        "macd_signal": 0.1409,
         "macd_histogram": 0.2171,
         "bb_upper": 152.8,
         "bb_middle": 150.15,
@@ -83,7 +83,7 @@
         "ema_9": 151.2,
         "ema_21": 150.72,
         "ema_trend": "bullish",
-        "atr_14": 0.8398,
+        "atr_14": 0.8397,
         "obv_trend": "rising",
         "price_change_pct": 0.0
       }
@@ -101,8 +101,8 @@
         "current_price": 243.02000427246094,
         "volume": 901229,
         "rsi_14": 53.39,
-        "macd": 0.1078,
-        "macd_signal": 0.2269,
+        "macd": 0.1079,
+        "macd_signal": 0.227,
         "macd_histogram": -0.1191,
         "bb_upper": 244.76,
         "bb_middle": 243.09,
@@ -112,7 +112,7 @@
         "ema_9": 242.7,
         "ema_21": 242.72,
         "ema_trend": "bearish",
-        "atr_14": 1.0359,
+        "atr_14": 1.0369,
         "obv_trend": "rising",
         "price_change_pct": 0.13
       }
