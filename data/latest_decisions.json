@@ -1,5 +1,5 @@
 {
-  "run_time": "2026-03-17T20:03:34.203730+00:00",
+  "run_time": "2026-03-17T21:05:14.347095+00:00",
   "decisions": [
     {
       "ticker": "AAPL_US_EQ",
@@ -40,23 +40,23 @@
       "rejection_reason": "Model error or no response",
       "indicators": {
         "symbol": "JPM",
-        "current_price": 286.9100036621094,
-        "volume": 1024688,
-        "rsi_14": 52.23,
-        "macd": 0.3848,
-        "macd_signal": 0.5084,
-        "macd_histogram": -0.1236,
+        "current_price": 286.8900146484375,
+        "volume": 1037213,
+        "rsi_14": 52.12,
+        "macd": 0.3832,
+        "macd_signal": 0.5081,
+        "macd_histogram": -0.1249,
         "bb_upper": 289.09,
         "bb_middle": 286.83,
         "bb_lower": 284.57,
-        "bb_pct": 0.5179,
-        "bb_width": 1.5748,
+        "bb_pct": 0.5137,
+        "bb_width": 1.5747,
         "ema_9": 286.97,
         "ema_21": 286.71,
         "ema_trend": "bullish",
         "atr_14": 1.399,
         "obv_trend": "rising",
-        "price_change_pct": 0.03
+        "price_change_pct": 0.02
       }
     },
     {
@@ -70,7 +70,7 @@
       "indicators": {
         "symbol": "XOM",
         "current_price": 158.82000732421875,
-        "volume": 2560243,
+        "volume": 2625607,
         "rsi_14": 58.43,
         "macd": 0.84,
         "macd_signal": 1.0159,
@@ -98,21 +98,21 @@
       "rejection_reason": "Model error or no response",
       "indicators": {
         "symbol": "JNJ",
-        "current_price": 238.1300048828125,
-        "volume": 1455243,
-        "rsi_14": 27.8,
-        "macd": -1.049,
-        "macd_signal": -0.7558,
-        "macd_histogram": -0.2932,
-        "bb_upper": 244.02,
+        "current_price": 238.11000061035156,
+        "volume": 1481581,
+        "rsi_14": 27.72,
+        "macd": -1.0506,
+        "macd_signal": -0.7561,
+        "macd_histogram": -0.2945,
+        "bb_upper": 244.03,
         "bb_middle": 241.05,
-        "bb_lower": 238.08,
-        "bb_pct": 0.009,
-        "bb_width": 2.4674,
+        "bb_lower": 238.07,
+        "bb_pct": 0.0065,
+        "bb_width": 2.4706,
         "ema_9": 239.57,
         "ema_21": 240.69,
         "ema_trend": "bearish",
-        "atr_14": 1.0344,
+        "atr_14": 1.0358,
         "obv_trend": "falling",
         "price_change_pct": -0.03
       }
