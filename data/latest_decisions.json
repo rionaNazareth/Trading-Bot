@@ -1,5 +1,5 @@
 {
-  "run_time": "2026-04-08T20:43:36.627557+00:00",
+  "run_time": "2026-04-08T21:41:32.206070+00:00",
   "decisions": [
     {
       "ticker": "AAPL_US_EQ",
@@ -112,7 +112,7 @@
         "ema_9": 239.98,
         "ema_21": 239.59,
         "ema_trend": "bullish",
-        "atr_14": 1.0214,
+        "atr_14": 1.0478,
         "obv_trend": "rising",
         "price_change_pct": 0.3
       }
