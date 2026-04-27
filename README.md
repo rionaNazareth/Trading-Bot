@@ -2,8 +2,6 @@
 
 Autonomous intraday paper-trading bot. Python + Google Gemini 2.0 Flash + Trading212 demo API, scheduled on GitHub Actions cron, with state persisted as JSON in Git. Paper trading only.
 
-> **Disclaimer**: this is a personal learning project. It runs against the Trading212 **demo** environment only. It does not place real-money trades. Nothing in this repository is investment advice.
-
 ---
 
 ## What it does
@@ -199,7 +197,7 @@ Runs every 30 minutes, Monday to Friday, 14:30–21:00 UTC. Installs dependencie
 
 ### `claude-code-review.yml` — AI code-review assistant
 
-`anthropic/claude-code-action@v1` is wired to PRs and `@claude` mentions. It reads the diff and the repo (including `CLAUDE.md` for project context), then posts review comments focusing on:
+`anthropics/claude-code-action@v1` is wired to PRs and `@claude` mentions. It reads the diff and the repo (including `CLAUDE.md` for project context), then posts review comments focusing on:
 
 - Resilience to malformed Gemini output (schema validation, fallbacks).
 - Trading212 API auth, retries, and rate-limit handling.
