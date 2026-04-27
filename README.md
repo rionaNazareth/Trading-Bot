@@ -2,8 +2,6 @@
 
 Autonomous intraday paper-trading bot. Python + Google Gemini 2.0 Flash + Trading212 demo API, scheduled on GitHub Actions cron, with state persisted as JSON in Git. Paper trading only.
 
-> **Disclaimer**: this is a personal learning project. It runs against the Trading212 **demo** environment only. It does not place real-money trades. Nothing in this repository is investment advice.
-
 ---
 
 ## What it does
