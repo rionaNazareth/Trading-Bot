@@ -1,5 +1,5 @@
 {
-  "run_time": "2026-05-05T20:08:00.381459+00:00",
+  "run_time": "2026-05-05T21:35:21.001553+00:00",
   "decisions": [
     {
       "ticker": "AAPL_US_EQ",
@@ -40,21 +40,21 @@
       "rejection_reason": "Model error or no response",
       "indicators": {
         "symbol": "JPM",
-        "current_price": 309.45001220703125,
-        "volume": 700772,
-        "rsi_14": 48.12,
-        "macd": -0.1575,
-        "macd_signal": -0.358,
-        "macd_histogram": 0.2005,
+        "current_price": 309.4700012207031,
+        "volume": 716181,
+        "rsi_14": 48.24,
+        "macd": -0.1559,
+        "macd_signal": -0.3577,
+        "macd_histogram": 0.2018,
         "bb_upper": 311.1,
-        "bb_middle": 308.98,
+        "bb_middle": 308.99,
         "bb_lower": 306.87,
-        "bb_pct": 0.61,
-        "bb_width": 1.3697,
+        "bb_pct": 0.6144,
+        "bb_width": 1.3703,
         "ema_9": 309.61,
         "ema_21": 309.6,
         "ema_trend": "bullish",
-        "atr_14": 1.131,
+        "atr_14": 1.1324,
         "obv_trend": "falling",
         "price_change_pct": -0.28
       }
@@ -70,7 +70,7 @@
       "indicators": {
         "symbol": "XOM",
         "current_price": 154.8800048828125,
-        "volume": 1606748,
+        "volume": 2206780,
         "rsi_14": 57.57,
         "macd": 0.4058,
         "macd_signal": 0.3419,
@@ -98,21 +98,21 @@
       "rejection_reason": "Model error or no response",
       "indicators": {
         "symbol": "JNJ",
-        "current_price": 225.58999633789062,
-        "volume": 755103,
-        "rsi_14": 45.99,
-        "macd": -0.1924,
-        "macd_signal": -0.3335,
-        "macd_histogram": 0.1411,
+        "current_price": 225.5800018310547,
+        "volume": 781263,
+        "rsi_14": 45.91,
+        "macd": -0.1932,
+        "macd_signal": -0.3337,
+        "macd_histogram": 0.1405,
         "bb_upper": 226.83,
         "bb_middle": 225.47,
         "bb_lower": 224.11,
-        "bb_pct": 0.5451,
-        "bb_width": 1.2068,
-        "ema_9": 225.82,
+        "bb_pct": 0.5416,
+        "bb_width": 1.2067,
+        "ema_9": 225.81,
         "ema_21": 225.88,
         "ema_trend": "bearish",
-        "atr_14": 0.7494,
+        "atr_14": 0.7509,
         "obv_trend": "falling",
         "price_change_pct": -0.15
       }
@@ -128,7 +128,7 @@
       "indicators": {
         "symbol": "WMT",
         "current_price": 130.80999755859375,
-        "volume": 1384931,
+        "volume": 7501481,
         "rsi_14": 49.13,
         "macd": 0.109,
         "macd_signal": 0.05,
@@ -141,7 +141,7 @@
         "ema_9": 131.05,
         "ema_21": 130.92,
         "ema_trend": "bullish",
-        "atr_14": 0.5461,
+        "atr_14": 0.5459,
         "obv_trend": "falling",
         "price_change_pct": -0.51
       }
