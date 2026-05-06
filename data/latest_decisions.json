@@ -1,5 +1,5 @@
 {
-  "run_time": "2026-05-06T21:17:02.265529+00:00",
+  "run_time": "2026-05-06T22:13:34.614181+00:00",
   "decisions": [
     {
       "ticker": "AAPL_US_EQ",
@@ -26,7 +26,7 @@
         "ema_21": 285.14,
         "ema_trend": "bullish",
         "atr_14": 1.3895,
-        "obv_trend": "falling",
+        "obv_trend": "rising",
         "price_change_pct": -0.08
       }
     },
@@ -54,8 +54,8 @@
         "ema_9": 314.88,
         "ema_21": 313.58,
         "ema_trend": "bullish",
-        "atr_14": 1.2115,
-        "obv_trend": "falling",
+        "atr_14": 1.2108,
+        "obv_trend": "rising",
         "price_change_pct": -0.21
       }
     },
@@ -83,7 +83,7 @@
         "ema_9": 148.46,
         "ema_21": 149.93,
         "ema_trend": "bearish",
-        "atr_14": 0.977,
+        "atr_14": 0.9763,
         "obv_trend": "rising",
         "price_change_pct": 0.47
       }
@@ -99,7 +99,7 @@
       "indicators": {
         "symbol": "JNJ",
         "current_price": 224.5,
-        "volume": 1277386,
+        "volume": 1277388,
         "rsi_14": 47.14,
         "macd": -0.5809,
         "macd_signal": -0.6166,
@@ -112,8 +112,8 @@
         "ema_9": 224.08,
         "ema_21": 224.56,
         "ema_trend": "bearish",
-        "atr_14": 0.8687,
-        "obv_trend": "rising",
+        "atr_14": 0.8681,
+        "obv_trend": "falling",
         "price_change_pct": 0.25
       }
     },
@@ -141,7 +141,7 @@
         "ema_9": 130.12,
         "ema_21": 130.31,
         "ema_trend": "bearish",
-        "atr_14": 0.4895,
+        "atr_14": 0.4894,
         "obv_trend": "falling",
         "price_change_pct": -0.17
       }
