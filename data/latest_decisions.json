@@ -1,5 +1,5 @@
 {
-  "run_time": "2026-07-16T20:02:24.865244+00:00",
+  "run_time": "2026-07-16T21:32:07.698535+00:00",
   "decisions": [
     {
       "ticker": "AAPL_US_EQ",
@@ -40,23 +40,23 @@
       "rejection_reason": "Model error or no response",
       "indicators": {
         "symbol": "JPM",
-        "current_price": 343.1600036621094,
-        "volume": 1067629,
-        "rsi_14": 45.52,
-        "macd": 0.0575,
-        "macd_signal": 0.6307,
-        "macd_histogram": -0.5732,
+        "current_price": 343.0799865722656,
+        "volume": 1091773,
+        "rsi_14": 45.23,
+        "macd": 0.0511,
+        "macd_signal": 0.6295,
+        "macd_histogram": -0.5783,
         "bb_upper": 348.58,
-        "bb_middle": 345.32,
-        "bb_lower": 342.05,
-        "bb_pct": 0.1695,
-        "bb_width": 1.8894,
-        "ema_9": 344.04,
-        "ema_21": 344.42,
+        "bb_middle": 345.31,
+        "bb_lower": 342.04,
+        "bb_pct": 0.159,
+        "bb_width": 1.8956,
+        "ema_9": 344.02,
+        "ema_21": 344.41,
         "ema_trend": "bearish",
         "atr_14": 2.0342,
         "obv_trend": "falling",
-        "price_change_pct": -0.01
+        "price_change_pct": -0.03
       }
     },
     {
@@ -69,23 +69,23 @@
       "rejection_reason": "Model error or no response",
       "indicators": {
         "symbol": "XOM",
-        "current_price": 145.9499969482422,
-        "volume": 2727494,
-        "rsi_14": 61.32,
-        "macd": 0.6065,
-        "macd_signal": 0.6201,
-        "macd_histogram": -0.0136,
+        "current_price": 145.97000122070312,
+        "volume": 2768449,
+        "rsi_14": 61.5,
+        "macd": 0.6081,
+        "macd_signal": 0.6204,
+        "macd_histogram": -0.0123,
         "bb_upper": 147.51,
         "bb_middle": 145.14,
         "bb_lower": 142.77,
-        "bb_pct": 0.6712,
-        "bb_width": 3.2657,
+        "bb_pct": 0.6751,
+        "bb_width": 3.2676,
         "ema_9": 145.83,
         "ema_21": 145.31,
         "ema_trend": "bullish",
-        "atr_14": 0.6408,
+        "atr_14": 0.6412,
         "obv_trend": "rising",
-        "price_change_pct": 0.1
+        "price_change_pct": 0.11
       }
     },
     {
@@ -98,23 +98,23 @@
       "rejection_reason": "Model error or no response",
       "indicators": {
         "symbol": "JNJ",
-        "current_price": 249.60000610351562,
-        "volume": 2046994,
-        "rsi_14": 45.7,
-        "macd": -0.777,
-        "macd_signal": -1.0083,
-        "macd_histogram": 0.2313,
+        "current_price": 249.5850067138672,
+        "volume": 2068467,
+        "rsi_14": 45.65,
+        "macd": -0.7782,
+        "macd_signal": -1.0086,
+        "macd_histogram": 0.2304,
         "bb_upper": 252.4,
         "bb_middle": 249.65,
         "bb_lower": 246.9,
-        "bb_pct": 0.4913,
-        "bb_width": 2.2018,
-        "ema_9": 249.77,
+        "bb_pct": 0.4887,
+        "bb_width": 2.2019,
+        "ema_9": 249.76,
         "ema_21": 250.27,
         "ema_trend": "bearish",
         "atr_14": 1.7672,
         "obv_trend": "falling",
-        "price_change_pct": -0.24
+        "price_change_pct": -0.25
       }
     },
     {
