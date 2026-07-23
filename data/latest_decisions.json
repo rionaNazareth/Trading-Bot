@@ -1,5 +1,5 @@
 {
-  "run_time": "2026-07-23T20:11:53.385476+00:00",
+  "run_time": "2026-07-23T21:35:07.492399+00:00",
   "decisions": [
     {
       "ticker": "AAPL_US_EQ",
@@ -41,7 +41,7 @@
       "indicators": {
         "symbol": "JPM",
         "current_price": 349.760009765625,
-        "volume": 831086,
+        "volume": 882826,
         "rsi_14": 63.61,
         "macd": 0.8672,
         "macd_signal": 0.8839,
@@ -54,7 +54,7 @@
         "ema_9": 348.38,
         "ema_21": 347.66,
         "ema_trend": "bullish",
-        "atr_14": 1.4045,
+        "atr_14": 1.4053,
         "obv_trend": "rising",
         "price_change_pct": 0.27
       }
@@ -70,7 +70,7 @@
       "indicators": {
         "symbol": "XOM",
         "current_price": 156.86000061035156,
-        "volume": 2448360,
+        "volume": 2546533,
         "rsi_14": 64.1,
         "macd": 1.2725,
         "macd_signal": 1.469,
@@ -98,23 +98,23 @@
       "rejection_reason": "Model error or no response",
       "indicators": {
         "symbol": "JNJ",
-        "current_price": 259.239990234375,
-        "volume": 1520864,
-        "rsi_14": 70.96,
-        "macd": 1.5814,
-        "macd_signal": 1.5747,
-        "macd_histogram": 0.0066,
-        "bb_upper": 260.8,
+        "current_price": 259.2699890136719,
+        "volume": 1608247,
+        "rsi_14": 71.08,
+        "macd": 1.5838,
+        "macd_signal": 1.5752,
+        "macd_histogram": 0.0085,
+        "bb_upper": 260.81,
         "bb_middle": 257.1,
         "bb_lower": 253.4,
-        "bb_pct": 0.789,
-        "bb_width": 2.8789,
+        "bb_pct": 0.7926,
+        "bb_width": 2.8816,
         "ema_9": 258.48,
         "ema_21": 257.07,
         "ema_trend": "bullish",
-        "atr_14": 1.1448,
+        "atr_14": 1.1469,
         "obv_trend": "rising",
-        "price_change_pct": 0.06
+        "price_change_pct": 0.07
       }
     },
     {
