@@ -1,5 +1,5 @@
 {
-  "run_time": "2026-08-19T21:24:42.768124+00:00",
+  "run_time": "2026-08-19T21:50:48.525184+00:00",
   "decisions": [
     {
       "ticker": "AAPL_US_EQ",
@@ -99,7 +99,7 @@
       "indicators": {
         "symbol": "JNJ",
         "current_price": 273.4700012207031,
-        "volume": 950734,
+        "volume": 950397,
         "rsi_14": 63.6,
         "macd": 1.8468,
         "macd_signal": 2.0987,
