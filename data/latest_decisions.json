@@ -1,5 +1,5 @@
 {
-  "run_time": "2026-08-20T20:57:48.782076+00:00",
+  "run_time": "2026-08-20T21:33:49.835944+00:00",
   "decisions": [
     {
       "ticker": "AAPL_US_EQ",
@@ -12,7 +12,7 @@
       "indicators": {
         "symbol": "AAPL",
         "current_price": 311.3399963378906,
-        "volume": 5485508,
+        "volume": 27038848,
         "rsi_14": 35.57,
         "macd": 0.3425,
         "macd_signal": 1.1626,
@@ -41,7 +41,7 @@
       "indicators": {
         "symbol": "JPM",
         "current_price": 352.0400085449219,
-        "volume": 1053783,
+        "volume": 1053825,
         "rsi_14": 28.05,
         "macd": -1.8456,
         "macd_signal": -1.7088,
@@ -70,7 +70,7 @@
       "indicators": {
         "symbol": "XOM",
         "current_price": 166.28500366210938,
-        "volume": 2248079,
+        "volume": 2248559,
         "rsi_14": 47.66,
         "macd": 0.4586,
         "macd_signal": 0.7067,
@@ -83,7 +83,7 @@
         "ema_9": 167.01,
         "ema_21": 166.79,
         "ema_trend": "bullish",
-        "atr_14": 0.7045,
+        "atr_14": 0.7044,
         "obv_trend": "falling",
         "price_change_pct": -0.2
       }
@@ -99,7 +99,7 @@
       "indicators": {
         "symbol": "JNJ",
         "current_price": 267.760009765625,
-        "volume": 1038790,
+        "volume": 1038823,
         "rsi_14": 34.26,
         "macd": -0.4895,
         "macd_signal": 0.1713,
