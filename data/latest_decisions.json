@@ -1,5 +1,5 @@
 {
-  "run_time": "2026-08-24T20:29:43.555495+00:00",
+  "run_time": "2026-08-24T21:01:35.762729+00:00",
   "decisions": [
     {
       "ticker": "AAPL_US_EQ",
@@ -12,7 +12,7 @@
       "indicators": {
         "symbol": "AAPL",
         "current_price": 310.3500061035156,
-        "volume": 3344226,
+        "volume": 3344278,
         "rsi_14": 42.27,
         "macd": -0.2409,
         "macd_signal": -0.2592,
@@ -41,7 +41,7 @@
       "indicators": {
         "symbol": "JPM",
         "current_price": 356.42999267578125,
-        "volume": 495870,
+        "volume": 495888,
         "rsi_14": 56.63,
         "macd": 0.5017,
         "macd_signal": 0.2972,
@@ -70,7 +70,7 @@
       "indicators": {
         "symbol": "XOM",
         "current_price": 164.07000732421875,
-        "volume": 2052298,
+        "volume": 2052304,
         "rsi_14": 46.21,
         "macd": -0.6244,
         "macd_signal": -0.7376,
@@ -83,7 +83,7 @@
         "ema_9": 163.64,
         "ema_21": 164.14,
         "ema_trend": "bearish",
-        "atr_14": 0.6636,
+        "atr_14": 0.6615,
         "obv_trend": "rising",
         "price_change_pct": 0.19
       }
@@ -128,7 +128,7 @@
       "indicators": {
         "symbol": "WMT",
         "current_price": 106.52010345458984,
-        "volume": 4660430,
+        "volume": 4660502,
         "rsi_14": 65.85,
         "macd": 0.173,
         "macd_signal": -0.2665,
@@ -141,7 +141,7 @@
         "ema_9": 105.65,
         "ema_21": 105.14,
         "ema_trend": "bullish",
-        "atr_14": 0.5779,
+        "atr_14": 0.5769,
         "obv_trend": "rising",
         "price_change_pct": 0.33
       }
