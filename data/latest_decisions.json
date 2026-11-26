@@ -1,5 +1,5 @@
 {
-  "run_time": "2026-11-25T22:57:27.408063+00:00",
+  "run_time": "2026-11-26T22:49:56.939705+00:00",
   "decisions": [
     {
       "ticker": "AAPL_US_EQ",
@@ -12,7 +12,7 @@
       "indicators": {
         "symbol": "AAPL",
         "current_price": 355.44500732421875,
-        "volume": 5469505,
+        "volume": 5469504,
         "rsi_14": 60.95,
         "macd": 1.2682,
         "macd_signal": 0.8495,
@@ -70,7 +70,7 @@
       "indicators": {
         "symbol": "XOM",
         "current_price": 158.1649932861328,
-        "volume": 2439941,
+        "volume": 2439816,
         "rsi_14": 44.3,
         "macd": 0.0045,
         "macd_signal": 0.0013,
@@ -128,7 +128,7 @@
       "indicators": {
         "symbol": "WMT",
         "current_price": 131.89999389648438,
-        "volume": 2714293,
+        "volume": 2714111,
         "rsi_14": 59.16,
         "macd": 0.3871,
         "macd_signal": 0.5275,
@@ -142,7 +142,7 @@
         "ema_21": 131.61,
         "ema_trend": "bullish",
         "atr_14": 0.6199,
-        "obv_trend": "falling",
+        "obv_trend": "rising",
         "price_change_pct": 0.04
       }
     }
